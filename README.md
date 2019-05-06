@@ -6,5 +6,6 @@
 - これはファンアートであり、公式様とは一切関係ありません
 
 
-作ったもの↓
+### 作ったもの
+
 https://senohirona.github.io/sketch-logo/i7-2ndlive-logo/index.html
